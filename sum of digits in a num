@@ -1,0 +1,6 @@
+n=1234
+n=str(n)
+summ=0
+for i in n:
+    summ+=int(i)
+print(summ)    
